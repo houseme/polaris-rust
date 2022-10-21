@@ -9,7 +9,7 @@ homepage = "https://github.com/houseme/polaris-rust"
 repository = "https://github.com/houseme/polaris-rust.git"
 readme = "README.md"
 keywords = ["polaris", "solution", "governance", "server", "proxyless"]
-categories = ["configuration", "asynchronous", "development-tools"]
+categories = ["config", "asynchronous", "development-tools"]
 include = ["src/**/*", "Cargo.toml", "README.md", "LICENSE-MIT", "LICENSE-APACHE"]
 
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
