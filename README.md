@@ -12,6 +12,8 @@ Polaris-rust is rust SDK for Polaris.
 [![crates.io](https://img.shields.io/crates/v/polaris-rust.svg)](https://crates.io/crates/polaris-rust)
 [![docs.rs](https://docs.rs/polaris-rust/badge.svg)](https://docs.rs/polaris-rust/)
 [![License](https://img.shields.io/crates/l/polaris-rust)](LICENSE-APACHE)
+[![Crates.io](https://img.shields.io/crates/v/polaris-rust)](https://crates.io/crates/polaris-rust)
+[![Crates.io](https://img.shields.io/crates/d/polaris-rust)](https://crates.io/crates/polaris-rust)
 
 
 ## Install
